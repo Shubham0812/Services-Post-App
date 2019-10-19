@@ -1,0 +1,17 @@
+{
+  "name": "test-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node ./server.js"
+  },
+  "author": "Shubham Singh <singh.shubham0812@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.7.5",
+    "standard": "^14.3.1"
+  }
+}
