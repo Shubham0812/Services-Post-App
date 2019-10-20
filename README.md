@@ -45,7 +45,7 @@ The following requests are supported by the server.
 	4. PUT ("/api/posts/postID")
 
 
-## Code Sample
+## Code Example
 
     app.route("/api/posts").post((req, res, next) => {
 	    const post =  new Post({
