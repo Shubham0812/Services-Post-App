@@ -43,7 +43,7 @@ The following requests are supported by the server.
 	2. POST  ("/api/posts")
 	3. DELETE ("/api/posts/postID")
 	4. PUT ("/api/posts/postID")
-
+	5. GET ("/api/random")
 
 ## Code Example
 
